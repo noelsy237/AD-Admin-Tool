@@ -1,16 +1,3 @@
-#############################################
-# Interactive User Administration Program   #
-#############################################
-# Allows searching for a user, finding and  #
-# displaying information about the user and #
-# their device, as well as modifying their  #
-# group membership, unlocking their account #
-# and changing their password.              #
-#############################################
-# Developed by Noel Williams                #
-# 15/11/23                                  #
-#############################################
-
 $GroupDict = @{
     "AD Group Name" = "Application Display Name"
 }
